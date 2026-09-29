@@ -1,0 +1,9 @@
+{
+  "project":"Data Analytics Lab — CO₂ Emissions",
+  "status":"validated",
+  "primary_source":"Our World in Data / Global Carbon Budget",
+  "analysis_scope":["Brazil","World"],
+  "metrics":["co2_mt","co2_per_capita_t","yoy_change_pct"],
+  "reproducible_mode":"--input data/sample_co2.csv",
+  "test_command":"pytest -q"
+}
