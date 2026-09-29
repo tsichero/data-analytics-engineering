@@ -1,6 +1,6 @@
-# Data Analytics Lab — CO₂ Emissions
+# Data Analytics Engineering — CO₂ Emissions
 
-> **Portfolio project · Data Analytics · Python · Reproducibility**
+> **Portfolio project · Data Analytics Engineering · Python · Reproducibility**
 
 Projeto de análise de dados desenvolvido para demonstrar uma cadeia completa de Analytics: **fonte → validação → transformação → indicadores → visualização → evidência reproduzível**.
 
