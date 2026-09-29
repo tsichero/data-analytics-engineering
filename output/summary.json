@@ -1,0 +1,14 @@
+{
+  "source":"data/sample_co2.csv",
+  "source_type":"local_fixture",
+  "execution_mode":"reproducible local fixture",
+  "latest_year":2024,
+  "brazil_co2_mt":483.0,
+  "brazil_co2_per_capita_t":2.288,
+  "brazil_yoy_change_pct":3.65,
+  "brazil_first_year":2023,
+  "brazil_first_co2_mt":466.0,
+  "brazil_last_year":2024,
+  "brazil_last_co2_mt":483.0,
+  "records_analyzed":4
+}
